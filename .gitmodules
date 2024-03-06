@@ -7,3 +7,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = git@github.com:tmux-plugins/tpm.git
+[submodule "plugins/tmux-nerd-font-window-name"]
+	path = plugins/tmux-nerd-font-window-name
+	url = git@github.com:joshmedeski/tmux-nerd-font-window-name.git
