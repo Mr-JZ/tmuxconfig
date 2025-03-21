@@ -10,6 +10,8 @@ icons:
   nh: 󱄅 # add new entries that aren't included
   fzf: 🔎 # add new entries that aren't included
   gh: 󰊤 # add new entries that aren't included
-  gl:  # add new entries that aren't included
+  glab:  # add new entries that aren't included
   nvim:  # add new entries that aren't included
   aider: 🧠
+  mongosh: 
+  bun: 󰙨
